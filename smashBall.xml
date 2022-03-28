@@ -1,0 +1,10 @@
+<prefab version="0.9.3">
+	<group id_="1617920384" name="instance=MOD/smashBall.xml" pos="-1.2 0.0 0.0" rot="0.0 0.0 0.0">
+		<script id_="1150358144" pos="0.0 -0.0 0.0" file="MOD/Smash Hit.lua">
+			<body id_="530021984" tags="smashBall" pos="0.0 0.0 0.0" dynamic="true">
+				<vox id_="1967510784" tags="ball" pos="0.1 0.1 0.2" density="10" file="MOD/smashBall.vox"/>
+			</body>
+		</script>
+	</group>
+</prefab>
+

@@ -1,0 +1,4 @@
+name = Smash Hit
+author = GGProGaming; The TD Community
+description = Recreation of the game Smash Hit into TD. If you contribute to this mod, add your name to "author" so I can add everyone once the project is finished. Thank you everyone! :)
+tags=Content
