@@ -1,0 +1,1 @@
+If you choose to contribute to this community made mod, please create something that is helpful to the development and the finished product of this map. Don't put junk or crap that is not needed, and please do not upload this mod to the workshop. Thank you!
