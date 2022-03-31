@@ -1,0 +1,12 @@
+TODO:
+* Main
+   - Does the menus and manages the game.
+   - Controls camera, spawns balls, keeps track of ammo, powerups, and score.
+
+* Scene Controller
+   - Dynamically loads in and deletes scenes as you progress. May also be part of main.
+
+* Scene
+   - Put on each spawned scene.
+   - Moves all the joints and such in a scene.
+   - Handles the breaking or missing of crystals and reports back to Main via the registry.
